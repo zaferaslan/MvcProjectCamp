@@ -1,0 +1,16 @@
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache

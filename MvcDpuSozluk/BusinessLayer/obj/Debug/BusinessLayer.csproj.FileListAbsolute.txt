@@ -1,0 +1,6 @@
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\BusinessLayer\obj\Debug\BusinessLayer.pdb

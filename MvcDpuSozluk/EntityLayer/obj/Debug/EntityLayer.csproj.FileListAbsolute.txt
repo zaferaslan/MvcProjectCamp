@@ -1,0 +1,11 @@
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\EntityLayer\bin\Debug\EntityLayer.dll.config
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\EntityLayer\bin\Debug\EntityFramework.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\EntityLayer\bin\Debug\EntityFramework.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Egitimler\MvcProjeKampi\MvcDpuSozluk\EntityLayer\obj\Debug\EntityLayer.pdb
